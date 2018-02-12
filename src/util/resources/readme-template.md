@@ -1,7 +1,7 @@
-Bootstrap 4 & Font awesome snippets for Visual studio code
+Font awesome snippets for Visual studio code
 ===========================
 
-Visual studio code plugin containing Bootstrap 4 & Font awesome snippets. This plugin works in both in the stable & the insiders build
+Visual studio code plugin Font awesome snippets. This plugin works in both in the stable & the insiders build
 
 ![Plugin in action](help.gif)
 

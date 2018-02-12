@@ -48,12 +48,6 @@ Font awesome - Visual studio code plugin is open-sourced software licensed under
 
 Readme template for this plugin was initially borrowed from [here](https://github.com/bodiam/intellij-bootstrap3) & [here](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
 
-﻿# Stream Kings HQ Website
-
-## For Editers
-
-Open get-streamer-id.html in chrome there you should fine the user id put the ID  in the _data/settings.yaml streamer-id
-
 ## Copyright
 
 Copyright 2018 MrDemonWolf.

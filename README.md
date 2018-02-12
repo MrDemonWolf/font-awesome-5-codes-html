@@ -831,7 +831,7 @@ See [here](CHANGELOG.md)
 
 ## License
 
-Bootstrap 4 & Font awesome - Visual studio code plugin is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+Font awesome - Visual studio code plugin is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 
 ## Disclaimer:

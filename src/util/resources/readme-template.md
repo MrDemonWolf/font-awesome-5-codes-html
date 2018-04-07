@@ -1,7 +1,7 @@
-Bootstrap 4 & Font awesome snippets for Visual studio code
+Font awesome snippets for Visual studio code
 ===========================
 
-Visual studio code plugin containing Bootstrap 4 & Font awesome snippets. This plugin works in both in the stable & the insiders build
+Visual studio code plugin Font awesome snippets. This plugin works in both in the stable & the insiders build
 
 ![Plugin in action](help.gif)
 
@@ -19,8 +19,6 @@ Suggestions, feedback and other comments welcome via [@thekalinga](https://twitt
 You are good to go
 
 ## Usage
-
-To use the bootstrap snippets, open a HTML file, and start typing `b4-`, followed by pressing `Ctrl+Space`. A list of bootstrap snippets will show up
 
 To use font awesome snippets, open a HTML file, and start typing `fa-`, the editor will show you all the snippets
 
@@ -48,4 +46,13 @@ Font awesome - Visual studio code plugin is open-sourced software licensed under
 
 ## Disclaimer:
 
+<<<<<<< HEAD
 Readme template for this plugin was initially borrowed from [here](https://github.com/bodiam/intellij-bootstrap3) & [here](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
+=======
+Readme template for this plugin was initially borrowed from [here](https://github.com/bodiam/intellij-bootstrap3) & [here](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
+
+## Copyright
+
+Copyright 2018 MrDemonWolf.
+
+>>>>>>> c2bb265060d35e09ac8a79d61c715dc296ac7c85
